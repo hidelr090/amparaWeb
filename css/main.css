@@ -89,7 +89,7 @@ footer p a{
   text-align: center;
 }
 
-#adote {
+.adote {
   padding-bottom: 50px;
   text-align: center;
   color:  #78A1BB;
@@ -98,20 +98,20 @@ footer p a{
   margin-right: auto;
 }
 
-#adote h2{
+.adote h2{
   text-shadow: 0.03em 0.03em grey;
   font-size: 25px;
   font-weight: bold;
 }
 
-#adote button{
+.adote button{
   background-color:  #78A1BB;
   border-radius: 5px;
   border-color: honeydew;
   padding: 20px 20px 20px 20px;
 }
 
-#adote button {
+.adote button {
   font-size: 20px;
   color: white;
   font-weight: bolder;
@@ -120,7 +120,7 @@ footer p a{
   text-shadow: 0.03em 0.03em grey;
 }
 
-#adote button:hover{
+.adote button:hover{
   transition-delay: 250ms;
   border: grey;
   cursor: pointer;
