@@ -20,9 +20,19 @@ body {
     height: 150px;
     border-bottom: 5px solid #8B786D;
   }
+.menu-fixo {
+  position: fixed;
+  top: 0;
+  z-index: 99;
+  transition: all .5s;
+}
+
+.conteudo {
+  padding-top: 160px;
+}
+
   
-  
-  footer {
+footer {
     border-top: 5px solid #78A1BB;
     background-color: #8B786D;
     height: 50px;
@@ -32,15 +42,15 @@ body {
     left: 0;
     width:100%;
     height:50px;   /* Mesma Altura do Rodapé */
-  }
+}
   
-  footer p{
+footer p{
     color: white;
     font-size: 12px;
     font-weight:lighter;
     margin-top: 10px;
     float: center;
-  }
+}
   
   footer p a{
     color: white;
