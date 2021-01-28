@@ -49,7 +49,7 @@ footer p{
     font-size: 12px;
     font-weight:lighter;
     margin-top: 10px;
-    float: center;
+    
 }
   
   footer p a{
@@ -95,7 +95,6 @@ footer p{
   .menu {
     padding-top: 20px;
     width:auto;
-    float: auto;
     text-align: center;
   }
   
@@ -248,7 +247,7 @@ footer p{
 .row-theme-slide{
     
     margin-left: 100px;
-    margin-right: 100px;"
+    margin-right: 100px;
     
 }
 
